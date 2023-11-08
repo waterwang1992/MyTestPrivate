@@ -5,3 +5,4 @@ aa
 b
 release b
 a
+a release
