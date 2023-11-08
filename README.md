@@ -6,3 +6,5 @@ b
 release b
 a
 a release
+b
+b release
